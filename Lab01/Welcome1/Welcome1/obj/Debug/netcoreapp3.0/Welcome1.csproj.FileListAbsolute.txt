@@ -1,0 +1,11 @@
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.exe
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.deps.json
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.runtimeconfig.json
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.runtimeconfig.dev.json
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.dll
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\bin\Debug\netcoreapp3.0\Welcome1.pdb
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\obj\Debug\netcoreapp3.0\Welcome1.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\obj\Debug\netcoreapp3.0\Welcome1.AssemblyInfoInputs.cache
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\obj\Debug\netcoreapp3.0\Welcome1.AssemblyInfo.cs
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\obj\Debug\netcoreapp3.0\Welcome1.dll
+C:\Users\Christopher\Desktop\Tri-C\IT1050\Welcome1\Welcome1\obj\Debug\netcoreapp3.0\Welcome1.pdb
