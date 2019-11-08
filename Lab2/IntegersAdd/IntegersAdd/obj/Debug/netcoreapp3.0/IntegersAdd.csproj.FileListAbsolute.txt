@@ -1,0 +1,11 @@
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\obj\Debug\netcoreapp3.0\IntegersAdd.csprojAssemblyReference.cache
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\obj\Debug\netcoreapp3.0\IntegersAdd.AssemblyInfoInputs.cache
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\obj\Debug\netcoreapp3.0\IntegersAdd.AssemblyInfo.cs
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.exe
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.deps.json
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.runtimeconfig.json
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.runtimeconfig.dev.json
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.dll
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\bin\Debug\netcoreapp3.0\IntegersAdd.pdb
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\obj\Debug\netcoreapp3.0\IntegersAdd.dll
+C:\Users\Christopher\source\repos\IntegersAdd\IntegersAdd\obj\Debug\netcoreapp3.0\IntegersAdd.pdb
